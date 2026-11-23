@@ -2,7 +2,7 @@ import pandas as pd
 
 data = {
     "Name": ["Pradnya", "Rahul", "Priya"],
-    "Attendance": [90, 65, 85]
+    "Attendance": [90, 70, 85]
 }
 
 df = pd.DataFrame(data)
